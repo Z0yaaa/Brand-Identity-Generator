@@ -1,36 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Brand Identity Generator</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin-bottom: 20px;
-    }
-    th, td {
-      border: 1px solid #cccccc;
-      padding: 10px;
-      text-align: left;
-    }
-    ul {
-      padding-left: 20px
-    }
-    hr {
-      border: none;
-      height: 1px;
-      background-color: #ddd;
-      margin: 20px 0;
-    }
-  </style>
-</head>
-<body>
-
 <h1>Brand Identity Generator</h1>
 
 <p>A simple web app built using Streamlit that generates a creative brand identity for your startup using Mistral 7B via OpenRouter API.</p>
@@ -86,6 +53,3 @@
   <li><a href="https://openrouter.ai/" target="_blank">OpenRouter</a></li>
   <li><a href="https://mistral.ai/" target="_blank">Mistral AI</a></li>
 </ul>
-
-</body>
-</html>
